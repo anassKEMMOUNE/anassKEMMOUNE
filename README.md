@@ -1,4 +1,4 @@
-# 👋 Who am I ?
+# 👋 About me:
 My name is Anass. I am a computer science student 💻 based in Morocco 🇲🇦. I love coding fun projects.<br>
 <br><br>
 
