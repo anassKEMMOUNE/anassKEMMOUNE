@@ -3,7 +3,7 @@ My name is Anass. I am a computer science student 💻 based in Morocco 🇲🇦
 <br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anass-kemmoune](https://www.linkedin.com/in/anass-kemmoune/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-kemmoune/)
 
 
 # 📊 GitHub stats:
