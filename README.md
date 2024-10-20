@@ -1,5 +1,4 @@
-# 👋 About me:
-Hello World ! My name is Anass. I am a 3rd Year computer science student 💻 @[UM6P](https://um6p.ma/) . I love coding fun projects.<br>
+# 👋 About me:4th Year computer science student 💻 @[UM6P](https://um6p.ma/) . I love coding fun projects.<br>
 <br>
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-kemmoune/)
